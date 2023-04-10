@@ -1,1 +1,15 @@
+# Data Source 
 
+##BigQuery Path from Chicago Gov Open Dataset
+
+1. 'bigquery-public-data.chicago_taxi_trips.taxi_trips'
+
+2. 'bigquery-public-data.chicago_crime.crime'
+
+
+DatSource
+
+https://data.cityofchicago.org/
+
+https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew
+ 

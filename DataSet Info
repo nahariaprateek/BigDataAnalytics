@@ -1,0 +1,16 @@
+BIGQUERY OPEN DATASET FROM CHICAGO OPEN GOV PORTAL
+
+BIGQUERY PATH for the dataset is as below:-
+
+'bigquery-public-data.chicago_taxi_trips.taxi_trips'
+'bigquery-public-data.chicago_crime.crime'
+
+DatSource
+https://data.cityofchicago.org/
+ https://data.cityofchicago.org/Transportation/Taxi-Trips/wrvz-psew
+ 
+ 
+ Motivation :
+Taxi services serve as a crucial means of transportation in urban regions, and examining taxi trip data can offer valuable insights for enhancing the quality and effectiveness of these services.
+The City of Chicago has recently revised its regulations on taxi services, rendering this project both relevant and timely.
+

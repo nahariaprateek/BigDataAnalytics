@@ -1,6 +1,15 @@
 # BigDataAnalytics
 Coursework &amp; Projects under Prof Mohammad Soltanieh-Ha for the coursework Boston University IS 843 - Big Data Analytics for Business
 
+<img src="https://drive.google.com/uc?id=1B_R8TgTfQ1LhG5DWlNIomuyt2_CkjorZ" alt="Chicago Taxi Ride Analysis" width="500"/>
+
+
+**TEAM 7**
+
+**Team members**: Prateek Naharia,Linting Wang, Sifan Zhu, Jiadai Yu, Tyler Christoforo
+
+## 🚕 Chicago Taxi Ride Analysis
+
 
 ## Introduction
 
